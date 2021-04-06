@@ -1,0 +1,6 @@
+## Interface: 90005
+## Title: PushableGreatVault
+## Notes: This simple addon allows you to open other windows (IE Character frame) while you have the great vault open
+## Version: 1.0
+## Author: Nerino1
+PushableGreatVault.lua
